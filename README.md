@@ -1,4 +1,4 @@
-#Authentication with user profile
+# Authentication with user profile
 
 This React application has all authentication features like Login, Signup, password reset, and user profile realted features like change mail-id, change password etc.
 
