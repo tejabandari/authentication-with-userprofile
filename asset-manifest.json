@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/authentication-with-userprofile/static/css/main.1a8a0596.css",
+    "main.js": "/authentication-with-userprofile/static/js/main.48112469.js",
+    "index.html": "/authentication-with-userprofile/index.html",
+    "main.1a8a0596.css.map": "/authentication-with-userprofile/static/css/main.1a8a0596.css.map",
+    "main.48112469.js.map": "/authentication-with-userprofile/static/js/main.48112469.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1a8a0596.css",
+    "static/js/main.48112469.js"
+  ]
+}
