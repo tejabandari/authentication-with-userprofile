@@ -1,3 +1,9 @@
+#Authentication with user profile
+
+This React application has all authentication features like Login, Signup, password reset, and user profile realted features like change mail-id, change password etc.
+
+Visit https://tejabandari.github.io/authentication-with-userprofile/ to check live application.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
